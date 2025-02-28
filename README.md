@@ -1,1 +1,1 @@
-This is a basic packet sniffer that will capture the source and destination IP addresses.
+This is a basic packet sniffer  using Python that will capture the source and destination IP addresses.
